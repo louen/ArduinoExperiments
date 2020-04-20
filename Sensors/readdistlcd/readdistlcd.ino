@@ -6,7 +6,7 @@
 // ============================================================================
 // Wiring : GND  -> GND
 //          VCC  -> 5V
-//          Tric -> Digital 6
+//          Trig -> Digital 6
 //          Echo -> Digital 7
 
 const int TrigPin = 6;
